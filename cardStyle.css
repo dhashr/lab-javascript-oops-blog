@@ -216,3 +216,14 @@ background: #6C63FF;
 border-radius: 4px;
 color: #FFFFFF;
 }
+#image{
+	margin-left: 50px;
+	margin-top: 200px;
+	visibility: hidden;
+}
+#blog-title{
+	margin-left: 50px;
+}
+#blog-description{
+	margin-left: 50px;
+}
